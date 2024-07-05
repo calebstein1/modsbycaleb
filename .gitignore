@@ -1,0 +1,10 @@
+Dockerfile
+bootstrap
+.sass-cache
+.shttr
+shttr-config
+node_modules
+package-lock.json
+shttrdb
+sh-on-the-shttr.zip
+config.sh
